@@ -2,7 +2,7 @@
 // import ReactDOM from 'react-dom'
 // import App from './app'
 
-// ReactDOM.render(<App name="zhx" age={26} />, document.querySelector('#root'))
+// ReactDOM.render(<App name="hxiangz" age={22} />, document.querySelector('#root'))
 
 import React, { Component } from 'react'
 import { render } from 'react-dom'
